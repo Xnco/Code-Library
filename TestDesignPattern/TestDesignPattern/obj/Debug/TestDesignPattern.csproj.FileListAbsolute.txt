@@ -1,0 +1,7 @@
+C:\Users\Anthony\source\repos\TestDesignPattern\TestDesignPattern\obj\Debug\TestDesignPattern.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\TestDesignPattern\TestDesignPattern\obj\Debug\TestDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\TestDesignPattern\TestDesignPattern\bin\Debug\TestDesignPattern.exe.config
+C:\Users\Anthony\source\repos\TestDesignPattern\TestDesignPattern\bin\Debug\TestDesignPattern.exe
+C:\Users\Anthony\source\repos\TestDesignPattern\TestDesignPattern\bin\Debug\TestDesignPattern.pdb
+C:\Users\Anthony\source\repos\TestDesignPattern\TestDesignPattern\obj\Debug\TestDesignPattern.exe
+C:\Users\Anthony\source\repos\TestDesignPattern\TestDesignPattern\obj\Debug\TestDesignPattern.pdb
